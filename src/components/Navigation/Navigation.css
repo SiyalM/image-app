@@ -1,0 +1,38 @@
+.navigation {
+  border: 1px solid #d9d9d9;
+  margin: 2rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  border-radius: 10px;
+  background-color: #d9d9d91d;
+  height: 2rem;
+  color: #fff;
+}
+
+.btn-login {
+  background: transparent;
+  border: none;
+  color: #fff;
+}
+
+.btn-border {
+  background: transparent;
+  border: 1px solid #d9d9d9;
+  border-radius: 10px;
+  padding: 0.5rem;
+  color: #fff;
+}
+
+.options {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.home-link {
+  color: #fff;
+  text-decoration: none;
+  cursor: pointer;
+}
